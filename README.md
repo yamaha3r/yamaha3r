@@ -1,80 +1,68 @@
 <div align="center">
 
-<!-- Входная шапка -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00FF41&strokeWidth=1&height=120&section=header&text=ROOT@DEV:~%23&fontSize=35&fontColor=00FF41&fontAlignY=50" width="100%"/>
-
-<!-- Глитч-анимация: символы -> Hello, friend. -->
+<!-- Минималистичная анимация раскодирования -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1800&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3E+0x00_+CONNECTING...;%3E+%25%24%23%40!%26%5E)*%3F%23%24;%3E+Hello%2C+friend.;%3E+System+ready." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=500&height=70&lines=%3E+0x00_+init;%3E+%25%24%23%40!%26%5E)*%3F%23;%3E+hello%2C+friend." alt="Typing SVG" />
 </a>
 
 </div>
 
+---
+
+### `0x1 // SYSTEM_INFO`
+
 ```bash
-# Информация о системе
-[user@archlinux ~]$ whoami
-> Software Engineer | Low-Level & Security Enthusiast
+$ whoami
+> Software Engineer / Systems & Security Research
+```
+
+```env
+OS       : Arch Linux x86_64
+Kernel   : Linux (hardened)
+Shell    : zsh
+Editor   : Neovim / VS Code
+Net      : Routed via Tor
 ```
 
 ---
 
-### `> $ neofetch`
-
-```plaintext
-      /\         user@node-01
-     /  \        ------------
-    /\   \       OS: Arch Linux x86_64
-   /      \      Kernel: Linux 6.8.x-hardened
-  /   ,,   \     Shell: zsh + tmux
- /   |  |  -\    IDE: Neovim / VS Code (Dark)
-/_-''    ''-_\   Focus: Systems Programming, Security, Reverse Engineering
-```
-
----
-
-### `> TECH_STACK`
+### `0x2 // TECH_STACK`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41&color=000000" />
-  <br/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=archlinux&logoColor=00FF41&color=000000" />
-  <img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=torbrowser&logoColor=00FF41&color=000000" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Tor-000000?style=flat-square&logo=torbrowser&logoColor=00FF41" />
 </p>
 
 ---
 
-### `> SPECIFICATION`
+### `0x3 // CONFIG`
 
-```yaml
-Development:
-  Low_Level: [C++, Rust, Memory Management]
-  Scripting_&_Tools: [Python, Bash, Automation]
-  Web_&_Enterprise: [JavaScript, Java]
+```toml
+[systems]
+languages = ["C++", "Rust"]
+concepts  = ["Memory Safety", "Low-Level Systems", "Concurrency"]
 
-Environment:
-  OS: Arch Linux (Main), Tails / Whonix (Labs)
-  Networking: Socket Programming, Tor Protocols, VPN Tunnels
-  Security: Static/Dynamic Analysis, Cryptography Basics
+[scripting_and_tools]
+languages = ["Python", "Bash"]
+tasks     = ["Automation", "Security Tooling", "CLI Apps"]
+
+[web_and_runtime]
+languages = ["JavaScript", "Java"]
+focus     = ["Network Protocols", "APIs", "Async I/O"]
+
+[environment]
+distro    = "Arch Linux"
+network   = "Tor Protocols"
 ```
-
----
-
-### `> QUOTE`
-
-> *«Control is an illusion. But good architecture is not.»*
 
 ---
 
 <div align="center">
-
-```bash
-$ logout
-[Connection closed by remote host]
-```
-
+  <sub><code>exit 0 // 127.0.0.1</code></sub>
 </div>
