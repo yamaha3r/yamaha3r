@@ -1,68 +1,59 @@
 <div align="center">
 
-<!-- Минималистичная анимация раскодирования -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=500&height=70&lines=%3E+0x00_+init;%3E+%25%24%23%40!%26%5E)*%3F%23;%3E+hello%2C+friend." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=1000&color=A9B1D6&center=true&vCenter=true&width=440&height=30&lines=%3E+init;%3E+%25%24%23%40!%26%5E%23;%3E+hello%2C+friend." alt="intro" />
 </a>
 
 </div>
 
----
+<br/>
 
-### `0x1 // SYSTEM_INFO`
+### About
 
-```bash
-$ whoami
-> Software Engineer / Systems & Security Research
-```
+Software Engineer. Интересуюсь системным программированием, безопасностью и всем, что работает близко к железу. Пишу инструменты, ломаю чужие, читаю чужой код по вечерам.
 
-```env
-OS       : Arch Linux x86_64
-Kernel   : Linux (hardened)
-Shell    : zsh
-Editor   : Neovim / VS Code
-Net      : Routed via Tor
-```
+<br/>
 
----
+### Stack
 
-### `0x2 // TECH_STACK`
+**Languages**  
+![C++](https://img.shields.io/badge/-C++-1a1b26?style=flat&logo=cplusplus&logoColor=A9B1D6)
+![Rust](https://img.shields.io/badge/-Rust-1a1b26?style=flat&logo=rust&logoColor=A9B1D6)
+![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat&logo=python&logoColor=A9B1D6)
+![Java](https://img.shields.io/badge/-Java-1a1b26?style=flat&logo=openjdk&logoColor=A9B1D6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b26?style=flat&logo=javascript&logoColor=A9B1D6)
+![Bash](https://img.shields.io/badge/-Bash-1a1b26?style=flat&logo=gnubash&logoColor=A9B1D6)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=archlinux&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/Tor-000000?style=flat-square&logo=torbrowser&logoColor=00FF41" />
-</p>
+**Tools & Environment**  
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1a1b26?style=flat&logo=archlinux&logoColor=A9B1D6)
+![Neovim](https://img.shields.io/badge/-Neovim-1a1b26?style=flat&logo=neovim&logoColor=A9B1D6)
+![Docker](https://img.shields.io/badge/-Docker-1a1b26?style=flat&logo=docker&logoColor=A9B1D6)
+![Git](https://img.shields.io/badge/-Git-1a1b26?style=flat&logo=git&logoColor=A9B1D6)
+![Tor](https://img.shields.io/badge/-Tor-1a1b26?style=flat&logo=torbrowser&logoColor=A9B1D6)
 
----
+<br/>
 
-### `0x3 // CONFIG`
+### Focus
 
-```toml
-[systems]
-languages = ["C++", "Rust"]
-concepts  = ["Memory Safety", "Low-Level Systems", "Concurrency"]
+- Low-level systems (C++, Rust)
+- Automation & tooling (Python, Bash)
+- Reverse engineering, network protocols
 
-[scripting_and_tools]
-languages = ["Python", "Bash"]
-tasks     = ["Automation", "Security Tooling", "CLI Apps"]
+<br/>
 
-[web_and_runtime]
-languages = ["JavaScript", "Java"]
-focus     = ["Network Protocols", "APIs", "Async I/O"]
+### Stats
 
-[environment]
-distro    = "Arch Linux"
-network   = "Tor Protocols"
-```
+<a href="https://github.com/yamaha3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yamaha3r&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=A9B1D6&text_color=A9B1D6&icon_color=A9B1D6&hide=issues,contribs" width="48%" />
+</a>
+<a href="https://github.com/yamaha3r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamaha3r&layout=compact&hide_border=true&bg_color=1a1b26&title_color=A9B1D6&text_color=A9B1D6&langs_count=6" width="38%" />
+</a>
+
+<br/><br/>
 
 ---
 
 <div align="center">
-  <sub><code>exit 0 // 127.0.0.1</code></sub>
+  <sub>hello, friend.</sub>
 </div>
