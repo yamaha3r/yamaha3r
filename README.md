@@ -1,64 +1,62 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1800&pause=1000&color=A9B1D6&center=true&vCenter=true&width=440&height=30&lines=%3E+init;%3E+%25%24%23%40!%26%5E%23;%3E+hello%2C+friend." alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=1000&color=A9B1D6&center=true&vCenter=true&width=450&height=35&lines=%3E+init;%3E+%25%24%23%40!%26%5E%23;%3E+hello%2C+friend." alt="intro" />
 </a>
 
 </div>
 
 <br/>
 
-### About
+### 👨‍💻 Обо мне
 
-Постоянно развиваюсь и пробую новые сферы в IT. В основном изучаю сетевое взаимодействие и протоколы Minecraft, делаю различных ботов, экспериментирую с нейросетями и немного занимаюсь реверс-инжинирингом.
+Привет! В разработке примерно **2–3 года**. Основной упор делаю на **Java**, **Python** и **JavaScript**. 
 
-<br/>
+Больше всего люблю копаться в сетевом протоколе **Minecraft** (разбор пакетов, клиент-серверное взаимодействие, боты), пилить разную автоматизацию, подключать нейросети к проектам и потихоньку разбираться в реверс-инжиниринге.
 
-### Stack
+---
 
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-1a1b26?style=flat&logo=openjdk&logoColor=A9B1D6)
-![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat&logo=python&logoColor=A9B1D6)
-![C++](https://img.shields.io/badge/-C++-1a1b26?style=flat&logo=cplusplus&logoColor=A9B1D6)
-![Rust](https://img.shields.io/badge/-Rust-1a1b26?style=flat&logo=rust&logoColor=A9B1D6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b26?style=flat&logo=javascript&logoColor=A9B1D6)
-![Bash](https://img.shields.io/badge/-Bash-1a1b26?style=flat&logo=gnubash&logoColor=A9B1D6)
+### 🛠 Основной стек
 
-**Tools & Environment**  
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1a1b26?style=flat&logo=archlinux&logoColor=A9B1D6)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1a1b26?style=flat&logo=wireshark&logoColor=A9B1D6)
-![Docker](https://img.shields.io/badge/-Docker-1a1b26?style=flat&logo=docker&logoColor=A9B1D6)
-![Git](https://img.shields.io/badge/-Git-1a1b26?style=flat&logo=git&logoColor=A9B1D6)
-![Neovim](https://img.shields.io/badge/-Neovim-1a1b26?style=flat&logo=neovim&logoColor=A9B1D6)
+| Категория | Технологии |
+| :--- | :--- |
+| **Основной стек** | ![Java](https://img.shields.io/badge/-Java-1a1b26?style=flat-square&logo=openjdk&logoColor=A9B1D6) ![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat-square&logo=python&logoColor=A9B1D6) ![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b26?style=flat-square&logo=javascript&logoColor=A9B1D6) |
+| **Изучаю / Экспериментирую** | ![C++](https://img.shields.io/badge/-C++-1a1b26?style=flat-square&logo=cplusplus&logoColor=A9B1D6) ![Rust](https://img.shields.io/badge/-Rust-1a1b26?style=flat-square&logo=rust&logoColor=A9B1D6) ![Bash](https://img.shields.io/badge/-Bash-1a1b26?style=flat-square&logo=gnubash&logoColor=A9B1D6) |
+| **Инструменты & ОС** | ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1a1b26?style=flat-square&logo=archlinux&logoColor=A9B1D6) ![Wireshark](https://img.shields.io/badge/-Wireshark-1a1b26?style=flat-square&logo=wireshark&logoColor=A9B1D6) ![Git](https://img.shields.io/badge/-Git-1a1b26?style=flat-square&logo=git&logoColor=A9B1D6) ![Docker](https://img.shields.io/badge/-Docker-1a1b26?style=flat-square&logo=docker&logoColor=A9B1D6) |
 
-<br/>
+---
 
-### Focus
+### 🎯 Чем занимаюсь
 
-- **Minecraft Networking:** Разбор сетевых пакетов, анализ протоколов взаимодействия клиента и сервера.
-- **Bots & Automation:** Разработка ботов (Telegram/Discord/Games) и авто-скриптов.
-- **AI Integrations:** Подключение нейросетей и LLM к своим проектам.
-- **Reverse Engineering:** Базовый анализ софта, исследование работы программ изнутри.
+* 🎮 **Minecraft & Сети:** Разбираю сетевые пакеты, пишу ботов и софт для анализа трафика майна.
+* 🤖 **Боты и Автоматизация:** Телеграм/Дискорд боты, асинхронные парсеры, автокликеры.
+* 🧠 **ИИ / LLM:** Интегрирую нейронки в свои скрипты и повседневные задачи.
+* 🔍 **Реверс:** Изучаю, как программы устроены изнутри (IDA / Ghidra / Wireshark).
 
-<br/>
+---
 
-### Disclaimer
+### 📊 Метрики профиля
 
-> ⚠️ Все скрипты, софт и исследования создаются исключительно в образовательных целях. Тестирование проводится только на своих локальных стендах или разрешенных серверах с согласия владельцев.
+<div align="center">
 
-<br/>
+![Repos](https://img.shields.io/github/repositories/0/yamaha3r?style=for-the-badge&label=Public%20Repos&color=1a1b26&labelColor=0d0e15&logo=github)
+![Stars](https://img.shields.io/github/stars/yamaha3r?style=for-the-badge&label=Total%20Stars&color=1a1b26&labelColor=0d0e15&logo=github)
+![Followers](https://img.shields.io/github/followers/yamaha3r?style=for-the-badge&label=Followers&color=1a1b26&labelColor=0d0e15&logo=github)
 
-### Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamaha3r&theme=tokyonight&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamaha3r&theme=tokyonight&hide_border=true&layout=compact" width="45%" />
-</p>
+</div>
 
 <br/>
+
+<details>
+<summary><b>⚠️ Важное примечание (Ethical Disclaimer)</b></summary>
+<br/>
+
+> Все исследования сетевых протоколов, скрипты и утилиты создаются исключительно в учебных целях. Любое тестирование проводится только на своих локальных серверах или с официального разрешения владельцев.
+
+</details>
 
 ---
 
 <div align="center">
-  <sub>hello, friend.</sub>
+  <sub><kbd>ctrl</kbd> + <kbd>c</kbd> // hello, friend.</sub>
 </div>
