@@ -10,34 +10,43 @@
 
 ### About
 
-Software Engineer. Интересуюсь системным программированием, безопасностью и всем, что работает близко к железу. Пишу инструменты, ломаю чужие, читаю чужой код по вечерам.
+Software Engineer. Занимаюсь разработкой ботов, автоматизацией процессов и исследованием различных сфер IT — от парсинга данных и скрипинга до интеграции ИИ-моделей и алгоритмов ботинга.
+
+Всегда пробую новые технологии, оптимизирую работу с сетевыми протоколами и разбираюсь, как устроены сложные системы под капотом.
 
 <br/>
 
 ### Stack
 
 **Languages**  
+![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat&logo=python&logoColor=A9B1D6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b26?style=flat&logo=javascript&logoColor=A9B1D6)
 ![C++](https://img.shields.io/badge/-C++-1a1b26?style=flat&logo=cplusplus&logoColor=A9B1D6)
 ![Rust](https://img.shields.io/badge/-Rust-1a1b26?style=flat&logo=rust&logoColor=A9B1D6)
-![Python](https://img.shields.io/badge/-Python-1a1b26?style=flat&logo=python&logoColor=A9B1D6)
 ![Java](https://img.shields.io/badge/-Java-1a1b26?style=flat&logo=openjdk&logoColor=A9B1D6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1b26?style=flat&logo=javascript&logoColor=A9B1D6)
 ![Bash](https://img.shields.io/badge/-Bash-1a1b26?style=flat&logo=gnubash&logoColor=A9B1D6)
 
 **Tools & Environment**  
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1a1b26?style=flat&logo=archlinux&logoColor=A9B1D6)
-![Neovim](https://img.shields.io/badge/-Neovim-1a1b26?style=flat&logo=neovim&logoColor=A9B1D6)
 ![Docker](https://img.shields.io/badge/-Docker-1a1b26?style=flat&logo=docker&logoColor=A9B1D6)
 ![Git](https://img.shields.io/badge/-Git-1a1b26?style=flat&logo=git&logoColor=A9B1D6)
+![Neovim](https://img.shields.io/badge/-Neovim-1a1b26?style=flat&logo=neovim&logoColor=A9B1D6)
 ![Tor](https://img.shields.io/badge/-Tor-1a1b26?style=flat&logo=torbrowser&logoColor=A9B1D6)
 
 <br/>
 
 ### Focus
 
-- Low-level systems (C++, Rust)
-- Automation & tooling (Python, Bash)
-- Reverse engineering, network protocols
+- **Automation & Bots:** Разработка сложных Telegram/Discord ботов, скриптов автоматизации.
+- **Parsing & Scraping:** Сбор данных, обход защиты, работа с асинхронными запросами.
+- **AI Integration:** Внедрение LLM и нейросетей в прикладные софт-решения.
+- **Low-Level & Security:** Исследование сетевых протоколов и оптимизация кода.
+
+<br/>
+
+### Disclaimer
+
+> ⚠️ Все инструменты, скрипты и исследования создаются исключительно в образовательных и ознакомительных целях. Тестирование проводиться только на собственных стендах или разрешенных серверах с согласия владельцев.
 
 <br/>
 
